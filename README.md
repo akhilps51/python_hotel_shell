@@ -17,73 +17,139 @@ eg:-  python3 hotel.py
 following is the example once you run the application.
 
 F:\Data>python3 hotel.py
-Enter Hotel name: Taj
-Enter Room Number: 111
-Enter the amenities name: Tv
-Enter amenities prize in $ (should be a number): 10
-Enter the amenities name: Sofa
-Enter amenities prize in $ (should be a number): 12
-Enter the amenities name: Fridge
-Enter amenities prize in $ (should be a number): 35
-Enter the amenities name: Washing Machine
-Enter amenities prize in $ (should be a number): 30
-Enter the amenities name: AC
-Enter amenities prize in $ (should be a number): 50
-Do you want to add more amenities(Yes/No): yes
-Enter the amenities name: Table
-Enter amenities prize in $ (should be a number): 16
-Do you want to add more amenities(Yes/No): no
-Do you want to add more Room(Yes/No): yes
-Enter Room Number: 222
-Enter the amenities name: Couch
-Enter amenities prize in $ (should be a number): 19
-Enter the amenities name: Tv
-Enter amenities prize in $ (should be a number): 9
-Enter the amenities name: Table
-Enter amenities prize in $ (should be a number): 16
-Enter the amenities name: Table Lamp
-Enter amenities prize in $ (should be a number): 4
-Enter the amenities name: wifi
-Enter amenities prize in $ (should be a number): 7
-Do you want to add more amenities(Yes/No): no
-Do you want to add more Room(Yes/No): no
-Do you want to add New Hotel (Yes/No): Marriot
-Invalid Input
-Do you want to add New Hotel (Yes/No): Marriot
-Invalid Input
-Do you want to add New Hotel (Yes/No): yes
-Enter Hotel name: Marriot
-Enter Room Number: 987
-Enter the amenities name: iorn
-Enter amenities prize in $ (should be a number): 5
-Enter the amenities name: Coffee maker
-Enter amenities prize in $ (should be a number): 10
-Enter the amenities name: Mini Bar
-Enter amenities prize in $ (should be a number): 60
-Enter the amenities name: TV
-Enter amenities prize in $ (should be a number): 10
-Enter the amenities name: Fridge
-Enter amenities prize in $ (should be a number): 15
-Do you want to add more amenities(Yes/No): no
-Do you want to add more Room(Yes/No): yes
-Enter Room Number: 543
-Enter the amenities name: Tv
-Enter amenities prize in $ (should be a number): 10
-Enter the amenities name: Phone
-Enter amenities prize in $ (should be a number): 9
-Enter the amenities name: AC
-Enter amenities prize in $ (should be a number): 20
-Enter the amenities name: Table Lamp
-Enter amenities prize in $ (should be a number): 2
-Enter the amenities name: Fridge
-Enter amenities prize in $ (should be a number): 7
-Do you want to add more amenities(Yes/No): yes
-Enter the amenities name: Table
-Enter amenities prize in $ (should be a number): 9
-Do you want to add more amenities(Yes/No): no
-Do you want to add more Room(Yes/No): no
-Do you want to add New Hotel (Yes/No): no
 
+Enter Hotel name: Taj
+
+Enter Room Number: 111
+
+Enter the amenities name: Tv
+
+Enter amenities prize in $ (should be a number): 10
+
+Enter the amenities name: Sofa
+
+
+Enter amenities prize in $ (should be a number): 12
+
+Enter the amenities name: Fridge
+
+Enter amenities prize in $ (should be a number): 35
+
+Enter the amenities name: Washing Machine
+
+Enter amenities prize in $ (should be a number): 30
+
+Enter the amenities name: AC
+
+Enter amenities prize in $ (should be a number): 50
+
+Do you want to add more amenities(Yes/No): yes
+
+Enter the amenities name: Table
+
+Enter amenities prize in $ (should be a number): 16
+
+Do you want to add more amenities(Yes/No): no
+
+Do you want to add more Room(Yes/No): yes
+
+Enter Room Number: 222
+
+Enter the amenities name: Couch
+
+Enter amenities prize in $ (should be a number): 19
+
+Enter the amenities name: Tv
+
+Enter amenities prize in $ (should be a number): 9
+
+Enter the amenities name: Table
+
+Enter amenities prize in $ (should be a number): 16
+
+Enter the amenities name: Table Lamp
+
+Enter amenities prize in $ (should be a number): 4
+
+Enter the amenities name: wifi
+
+Enter amenities prize in $ (should be a number): 7
+
+Do you want to add more amenities(Yes/No): no
+
+Do you want to add more Room(Yes/No): no
+
+Do you want to add New Hotel (Yes/No): Marriot
+
+Invalid Input
+
+Do you want to add New Hotel (Yes/No): Marriot
+
+Invalid Input
+
+Do you want to add New Hotel (Yes/No): yes
+
+Enter Hotel name: Marriot
+
+Enter Room Number: 987
+
+Enter the amenities name: iorn
+
+Enter amenities prize in $ (should be a number): 5
+
+Enter the amenities name: Coffee maker
+
+Enter amenities prize in $ (should be a number): 10
+
+Enter the amenities name: Mini Bar
+
+Enter amenities prize in $ (should be a number): 60
+
+Enter the amenities name: TV
+
+Enter amenities prize in $ (should be a number): 10
+
+Enter the amenities name: Fridge
+
+Enter amenities prize in $ (should be a number): 15
+
+Do you want to add more amenities(Yes/No): no
+
+Do you want to add more Room(Yes/No): yes
+
+Enter Room Number: 543
+
+Enter the amenities name: Tv
+
+Enter amenities prize in $ (should be a number): 10
+
+Enter the amenities name: Phone
+
+Enter amenities prize in $ (should be a number): 9
+
+Enter the amenities name: AC
+
+Enter amenities prize in $ (should be a number): 20
+
+Enter the amenities name: Table Lamp
+
+Enter amenities prize in $ (should be a number): 2
+
+Enter the amenities name: Fridge
+
+Enter amenities prize in $ (should be a number): 7
+
+Do you want to add more amenities(Yes/No): yes
+
+Enter the amenities name: Table
+
+Enter amenities prize in $ (should be a number): 9
+
+Do you want to add more amenities(Yes/No): no
+
+Do you want to add more Room(Yes/No): no
+
+Do you want to add New Hotel (Yes/No): no
 
 
 Taj Hotel have following rooms
